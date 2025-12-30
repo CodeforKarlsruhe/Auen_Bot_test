@@ -1,0 +1,5 @@
+rapidfuzz==3.9.6
+sentence-transformers==2.7.0
+numpy==1.26.4
+scikit-learn==1.5.2
+streamlit==1.40.0

@@ -137,3 +137,11 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+ 
+#Ergänzung Marie
+.venv/
+__pycache__/
+*.pyc
+intent_index.pkl
+.streamlit/secrets.toml
+

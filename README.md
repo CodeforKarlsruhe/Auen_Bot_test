@@ -31,3 +31,7 @@ Create vector embedding for all intent texts. Setup database with vectors, full 
 
 Add data access to whether conditions, environmental data, Wikidata images and audio files, Source to be found, probably from NAZKA, or https://www.museumfuernaturkunde.berlin/de/forschung/tierstimmenarchiv. MP3 files were missing in input dataset.
 
+##Marie
+venv aktivieren auf Mac: source .venv/bin/activate
+lokal ausführen: python -m src.main
+mit streamlit starten: python -m streamlit run app.py
