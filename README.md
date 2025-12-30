@@ -35,3 +35,11 @@ Add data access to whether conditions, environmental data, Wikidata images and a
 venv aktivieren auf Mac: source .venv/bin/activate
 lokal ausführen: python -m src.main
 mit streamlit starten: python -m streamlit run app.py
+
+vorher ein credential file anlegen in .streamlit/secrets.toml 
+
+``` toml
+
+APP_PASSWORD = "<xxxx whatever yyyy>"
+
+```
